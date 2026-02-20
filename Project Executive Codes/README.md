@@ -98,15 +98,7 @@ streamlit run app.py
 - `streamlit`: Web application framework
 - `google-generativeai`: Gemini Pro API client
 - `python-dotenv`: Environment variable management
-- `langchain`: Language model utilities
-- `langchain-google-genai`: LangChain integration for Google models
 
-## Contributing
-
-1. Fork the repository
-2. Create a feature branch
-3. Make your changes
-4. Submit a pull request
 
 ## License
 
