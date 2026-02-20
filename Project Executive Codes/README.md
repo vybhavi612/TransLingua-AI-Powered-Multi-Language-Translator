@@ -92,10 +92,6 @@ The application uses Google's Gemini Pro API for translations. To set up:
 streamlit run app.py
 ```
 
-### Cloud Deployment (Streamlit Cloud)
-1. Push your code to a GitHub repository
-2. Connect your repository to [Streamlit Cloud](https://share.streamlit.io)
-3. Set your `GOOGLE_API_KEY` in the app secrets
 
 ## Dependencies
 
